@@ -35,3 +35,12 @@ Veuillez choisir une option : 2
 Paiement accepté.
 Votre Cappuccino est en cours de préparation... ☕
 
+✅ Objectif pédagogique
+ Il montre comment :
+
+Organiser une logique propre
+
+Gérer des erreurs utilisateur
+
+Utiliser des classes (UseClass) pour structurer l’application
+
