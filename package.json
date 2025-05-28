@@ -1,0 +1,26 @@
+{
+  "name": "coffee-machine-project",
+  "version": "1.0.0",
+  "description": "https://github.com/bonarson/Prog-5-d5/blob/main/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramananolo/Coffee-Machine-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramananolo/Coffee-Machine-Project/issues"
+  },
+  "homepage": "https://github.com/Ramananolo/Coffee-Machine-Project#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
